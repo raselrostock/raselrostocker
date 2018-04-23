@@ -1,0 +1,37 @@
+/* Footer */
+
+.footer-section {
+    background: #000;
+    padding: 80px 0px;
+    color: #f8f8f8;
+}
+
+.footer-section p {
+    font-size: 14px;
+}
+
+.footer-section a {
+    color: #ffffff;
+}
+
+/* Scroll To Top */
+
+.scroll-to-top {
+    background-color: #24b662;
+    display: none;
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    line-height: 50px;
+    text-align: center;
+    color: #fff;
+    position: fixed;
+    right: 0px;
+    bottom: 50px;
+    z-index: 999;
+}
+.scroll-to-top:hover,
+.scroll-to-top:focus {
+    background-color: #1bab58;
+    color: #ffffff;
+}
